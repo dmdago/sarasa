@@ -1,3 +1,2 @@
 # sarasa
 * pepe
-* pepe2
